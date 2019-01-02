@@ -1,4 +1,4 @@
-# Hospital-DaraBase
+# Hospital-DataBase
 High-school project. 
 
 There are 2 types of user: Doctor and Administrative officer
