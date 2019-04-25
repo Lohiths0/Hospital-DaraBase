@@ -1,5 +1,4 @@
 # Hospital-DataBase
-High-school project. 
 
 There are 2 types of user: Doctor and Administrative officer
 The system should maintain a doctor register and a patients register. User should be able to perform following operations:
